@@ -57,8 +57,7 @@ The different types of buttons used:
 
 
 ## :wrench:Tools
-- Visual Code Studio *(IDE)*
-- SDL 2.0 *(Graphic Interfaces)*
-- Adobe Photoshop *(Graphic Design)*
+
+![alt text](https://github.com/choub26/KALAH-GAME/blob/master/images/tools.png)
 
 
