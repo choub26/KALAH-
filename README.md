@@ -34,7 +34,7 @@ However, if you choose loading a previous game, a list of games saved previously
 
 ![alt text](https://github.com/choub26/KALAH-GAME/blob/master/images/outputs/loadgame.PNG)
 
-On the main game, there is a home icon right up, if you click on it, a menu is shown where you can either create a new game, load one or resume the previous one.
+On the main game, there is a home icon right up, if you click on it, a menu is shown where you can either create a new game, load one or resume the previous one *(reprendre la partie)*.
 
 ![alt text](https://github.com/choub26/KALAH-GAME/blob/master/images/outputs/UNDO.PNG)
 ![alt text](https://github.com/choub26/KALAH-GAME/blob/master/images/outputs/reprendre.PNG)
